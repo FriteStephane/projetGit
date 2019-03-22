@@ -35,7 +35,7 @@ if(isset($_POST["mail"])){
 </head>
 
 <body>
-<h1>Connexion formulaire</h1>
+<h1>Connexion o formulaire</h1>
     <form method="POST" action="index.php">
         <input type="text" name="mail" placeholder="Entrez votre email"><br>
         <input type="text" name="password" placeholder="Mot de passe"><br><br>
